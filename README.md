@@ -1,4 +1,5 @@
 # Shock Microscope Image-Analysis to Track Growth of Emission
+See publication for application use case: "Valluri, S.K., Dreizin, E.L., and Dlott, D.D., Accelerating shock-driven reactions in metal nanocomposites. AIP Conf. Proc., 2023."
 ## General Description: ##    
 -The code in current form is set to automate image processing of the images from the SIMX8 camera used in Laser driven shock compression experiments conducted in Dlott Lab. To associate reactions to spatial regions and track their growth quantitatively.
 See image showcasing emission frames overlaid by identified R.O.I for spatial allocation of emission.
@@ -22,7 +23,7 @@ Tracking Pixel intensities within R.O.I
 
 ## What to expect when you're running the code ##
 You can use the example data provided to understand how to use the code. 
-This dataset shown has been published in 
+This dataset shown has been published in "Valluri, S.K., Dreizin, E.L., and Dlott, D.D., Accelerating shock-driven reactions in metal nanocomposites. AIP Conf. Proc., 2023."
 
 ### Folder structure for input data ###
 -Program asks for address of master folder (usually name of project) containing subfolders (labelled based on experimental run they are acquired from in the example dataset provided).
