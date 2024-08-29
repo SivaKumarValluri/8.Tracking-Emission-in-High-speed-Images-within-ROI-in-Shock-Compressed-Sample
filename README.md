@@ -1,4 +1,4 @@
-# Shock Microscope Image-Analysis to Track Growth of Emission
+# PyROIEmissionTracker
 See publication for application use case: "Valluri, S.K., Dreizin, E.L., and Dlott, D.D., Accelerating shock-driven reactions in metal nanocomposites. AIP Conf. Proc., 2023."
 ## General Description: ##    
 -The code in current form is set to automate image processing of the images from the SIMX8 camera used in Laser driven shock compression experiments conducted in Dlott Lab. To associate reactions to spatial regions and track their growth quantitatively.
