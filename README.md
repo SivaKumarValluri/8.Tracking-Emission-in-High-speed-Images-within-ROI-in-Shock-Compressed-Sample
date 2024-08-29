@@ -3,7 +3,8 @@ See publication for application use case: "Valluri, S.K., Dreizin, E.L., and Dlo
 ## General Description: ##    
 -The code in current form is set to automate image processing of the images from the SIMX8 camera used in Laser driven shock compression experiments conducted in Dlott Lab. To associate reactions to spatial regions and track their growth quantitatively.
 See image showcasing emission frames overlaid by identified R.O.I for spatial allocation of emission.
-![image](https://github.com/user-attachments/assets/a536bca7-9d26-49cd-9e91-a305bf276e9f)
+![image](https://github.com/user-attachments/assets/eba7e3d8-37d6-4e7a-9d4f-30536b47092f)
+
 
 -The high-speed videography in the Laser driven shock compression experiment enables 4/8 frames of observation during/post shock compression and an additional initial stationary image.
 
